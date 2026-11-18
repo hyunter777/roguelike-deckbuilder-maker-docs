@@ -10,7 +10,7 @@ Open it from **Tools > Roguelike Deckbuilder Maker > Content Browser**, or press
 
 | Area | What it shows |
 |---|---|
-| Project field (toolbar) | The maker project to browse. Clear it to show mock data; the source label then starts with `MOCK`. |
+| Project field (toolbar) | The maker project to browse. With no project chosen the list is empty and a note says how to make one. |
 | Source label | The project name, and the number of packs when there are several. |
 | Kind tabs | **Cards**, **Relics**, **Potions**, **Powers**, **Enemies**, **Events**, **Heroes**. |
 | **Refresh** | Reads the project again. |
