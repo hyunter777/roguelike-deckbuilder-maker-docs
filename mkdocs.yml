@@ -1,0 +1,99 @@
+site_name: Roguelike Deckbuilder Maker
+site_description: User guide for Roguelike Deckbuilder Maker.
+site_url: https://hyunter777.github.io/roguelike-deckbuilder-maker-docs/
+repo_url: https://github.com/hyunter777/roguelike-deckbuilder-maker-docs
+edit_uri: ''
+copyright: Copyright © FlyCat
+theme:
+  name: material
+  language: en
+  font: false
+  features:
+  - navigation.sections
+  - navigation.top
+  - navigation.footer
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  - content.tabs.link
+  palette:
+  - scheme: default
+    primary: deep purple
+    accent: amber
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary: deep purple
+    accent: amber
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+plugins:
+- search:
+    lang: en
+- i18n:
+    docs_structure: folder
+    languages:
+    - locale: en
+      name: English
+      default: true
+      build: true
+markdown_extensions:
+- admonition
+- attr_list
+- md_in_html
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.tabbed:
+    alternate_style: true
+- toc:
+    permalink: true
+nav:
+- Introduction:
+  - Welcome: index.md
+  - Feature overview: introduction/features.md
+  - Requirements: introduction/requirements.md
+- Getting started:
+  - Installation: getting-started/installation.md
+  - Sample project: getting-started/sample-project.md
+  - Your first game: getting-started/first-game.md
+- Core concepts:
+  - Projects and content: concepts/projects-and-content.md
+  - Run flow: concepts/run-flow.md
+  - Effects and powers: concepts/effects-and-powers.md
+- Editors:
+  - Project Overview: authoring/project-overview.md
+  - Content Browser: authoring/content-browser.md
+  - Cards: authoring/cards.md
+  - Relics: authoring/relics.md
+  - Potions: authoring/potions.md
+  - Powers: authoring/powers.md
+  - Enemies: authoring/enemies.md
+  - Encounters: authoring/encounters.md
+  - Events: authoring/events.md
+  - Heroes: authoring/heroes.md
+  - Run rules: authoring/run-rules.md
+  - Art library: authoring/art-library.md
+  - Sound and effects: authoring/sound-effects.md
+- Playtesting:
+  - Play Preview: playtesting/play-preview.md
+  - Game Screen: playtesting/game-screen.md
+  - Player Screen and your build: playtesting/player-screen.md
+  - Saves and continue: playtesting/saves-continue.md
+- Extending:
+  - Custom rule modules: extending/custom-rule-modules.md
+  - Example module: extending/example-module.md
+- Help:
+  - Troubleshooting: help/troubleshooting.md
+  - FAQ: help/faq.md
+  - Release notes: release-notes.md
+  - Support and license: support-license.md
+validation:
+  links:
+    not_found: warn
+    unrecognized_links: warn
+    anchors: warn
+  nav:
+    not_found: warn
+    omitted_files: warn
