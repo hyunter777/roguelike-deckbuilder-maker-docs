@@ -16,7 +16,7 @@ Its files are in `Assets/DeckForge/Player`:
 | `Player/Ugui/Skin`, `Player/Ugui/Fonts` | The skin's sprites and TextMesh Pro font assets. |
 | `Player/DeckForgePlayer.cs`, `Player/UI` | A second play screen built with UI Toolkit, shown by the Player Screen window. It is turned off in the scene. |
 
-<!-- figure: player-screen-scene | DeckForgePlayer scene hierarchy with the DeckForge Play Screen object selected and its Inspector -->
+![DeckForgePlayer scene hierarchy with the DeckForge Play Screen object selected and its Inspector](../../assets/images/player-screen-scene.png)
 
 ## The title shows your game
 
@@ -50,7 +50,7 @@ The window uses the project that was selected when it was first opened. To chang
 
 To check what your players will see, use [Game Screen](game-screen.md), which shows the uGUI screen of your build.
 
-<!-- figure: player-screen-window | Player Screen window showing the UI Toolkit title screen -->
+![Player Screen window showing the UI Toolkit title screen](../../assets/images/player-screen-window.png)
 
 ## Rebuild Play Screen Skin
 

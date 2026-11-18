@@ -4,7 +4,7 @@ Game Screen shows the release play screen inside an Editor window without enteri
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Game Screen**.
 
-<!-- figure: game-screen-title | Game Screen window showing the title screen with the game title, subtitle and hero choice -->
+![Game Screen window showing the title screen with the game title, subtitle and hero choice](../../assets/images/game-screen-title.png)
 
 ## How it works
 
@@ -28,7 +28,7 @@ Game Screen saves under `Library/DeckForgePlayerScreen` in your Unity project, i
 
 To switch to another project, select that project and choose the menu item again. The window rebuilds the screen for it.
 
-<!-- figure: game-screen-combat | Game Screen during combat with the hand, enemies, intents and the end turn button -->
+![Game Screen during combat with the hand, enemies, intents and the end turn button](../../assets/images/game-screen-combat.png)
 
 ## When you change content or the game title
 

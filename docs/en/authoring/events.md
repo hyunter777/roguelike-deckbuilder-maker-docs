@@ -17,7 +17,7 @@ The left column lists:
 
 A list marked **EMPTY** does not exist yet and is created by its first save.
 
-<!-- figure: event-editor-list | Event Editor with the Act 1 Events list selected, showing ordered rows with Up, Down, Remove and Edit buttons -->
+![Event Editor with the Act 1 Events list selected, showing ordered rows with Up, Down, Remove and Edit buttons](../../assets/images/event-editor-list.png)
 
 ## Workflow
 
@@ -65,7 +65,7 @@ An event that has been shown is not shown again in the same run. An event cannot
 | **Discard** / **Revert** | Drops a new event or discards unsaved changes. |
 | **Delete event** | Asks for confirmation, then deletes the event from the pack and from every event list. |
 
-<!-- figure: event-editor-pages | Event form with one page, two choices, their conditions and steps -->
+![Event form with one page, two choices, their conditions and steps](../../assets/images/event-editor-pages.png)
 
 ### Pages and choices
 

@@ -12,7 +12,7 @@ Custom rules run inside the engine. They must use the random numbers and state t
 4. Open [Project Overview](../authoring/project-overview.md). Under **Custom rule modules (C#)**, drag the asset into **Add module**.
 5. Open the Card, Relic or Enemy editor, add a step of the kind **Run a custom rule (C#)** and pick the rule.
 
-<!-- figure: custom-rule-modules-overview | Project Overview section "Custom rule modules (C#)" with one module, its rule table and the Add module field -->
+![Project Overview section "Custom rule modules (C#)" with one module, its rule table and the Add module field](../../assets/images/custom-rule-modules-overview.png)
 
 ## The Custom rule modules section
 

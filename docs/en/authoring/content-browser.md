@@ -4,7 +4,7 @@ The Content Browser is a read-only view of everything the project composes: card
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Content Browser**, or press **Open Content Browser** in the [Project Overview](project-overview.md).
 
-<!-- figure: content-browser | The Content Browser with the Cards tab, the entry list, the detail pane and the Validation panel -->
+![The Content Browser with the Cards tab, the entry list, the detail pane and the Validation panel](../../assets/images/content-browser.png)
 
 ## Layout
 

@@ -11,7 +11,7 @@ This page describes what happens in a run, from the hero choice to victory or de
 5. Defeating the act 3 boss wins the run. Reaching 0 HP loses it.
 6. The end screen shows the score.
 
-<!-- figure: run-flow-map | The play screen map of act 1 with room icons and the boss at the top -->
+![The play screen map of act 1 with room icons and the boss at the top](../../assets/images/run-flow-map.png)
 
 ## Start of the run
 

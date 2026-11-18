@@ -50,7 +50,7 @@ The Card, Relic, Potion and Enemy editors list ready-made templates under **New 
 
 Write a **custom rule module** to add your own card effects, relic effects and enemy actions. They appear as the **Run a custom rule (C#)** step in the editors, with value fields you define. A sample module is included. See [Custom rule modules](../extending/custom-rule-modules.md) and [Example module](../extending/example-module.md).
 
-<!-- figure: features-editors | The Tools > Roguelike Deckbuilder Maker menu expanded, showing its five groups -->
+![The Tools > Roguelike Deckbuilder Maker menu expanded, showing its five groups](../../assets/images/features-editors.png)
 
 ## Related pages
 

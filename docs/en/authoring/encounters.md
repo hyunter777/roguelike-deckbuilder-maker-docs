@@ -8,7 +8,7 @@ Menu: **Tools > Roguelike Deckbuilder Maker > Encounter Editor**
 
 Select the project in the **Maker project** field. Saves go into the project's last content pack.
 
-<!-- figure: encounter-editor-lists | Encounter Editor with the act lists on the left and an Act 1 weak fights list with weights and percentages -->
+![Encounter Editor with the act lists on the left and an Act 1 weak fights list with weights and percentages](../../assets/images/encounter-editor-lists.png)
 
 The left column has two parts:
 
@@ -35,7 +35,7 @@ The left column has two parts:
 
 Monsters are created in list order, and the play screen places them from left to right in the same order. Under the buttons, the form shows the lists that use the encounter, or a note that it is not in any list yet.
 
-<!-- figure: encounter-editor-encounter | Encounter form with two monsters and the list of encounter lists that use it -->
+![Encounter form with two monsters and the list of encounter lists that use it](../../assets/images/encounter-editor-encounter.png)
 
 ## List form
 

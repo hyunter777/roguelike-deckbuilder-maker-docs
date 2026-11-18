@@ -22,7 +22,7 @@ A card, relic, enemy, hero or event must be saved once before it can get a pictu
 
 ## The picture section
 
-<!-- figure: art-picker-enemy | Enemy picture section with the current picture, the No picture button, the open thumbnail grid and the + Add your picture field -->
+![Enemy picture section with the current picture, the No picture button, the open thumbnail grid and the + Add your picture field](../../assets/images/art-picker-enemy.png)
 
 | Control | Meaning |
 |---|---|

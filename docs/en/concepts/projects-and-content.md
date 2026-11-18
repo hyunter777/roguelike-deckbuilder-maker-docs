@@ -92,7 +92,7 @@ Saved runs remember a fingerprint of the content they were played with. Picture 
 - **Project Overview** shows the project check line: "Project check: no problems found." or counts of errors, warnings and notes. Select **See checks** for the list, **Check again** to repeat it and **Open Content Browser** to see every entry.
 - **Content Browser** lists every definition with its details and problems. See [Content Browser](../authoring/content-browser.md).
 
-<!-- figure: projects-packs-overview | Project Overview showing the content pack table and the Manage packs buttons -->
+![Project Overview showing the content pack table and the Manage packs buttons](../../assets/images/projects-packs-overview.png)
 
 ## Related pages
 

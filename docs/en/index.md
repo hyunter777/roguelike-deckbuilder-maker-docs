@@ -5,7 +5,7 @@ Roguelike Deckbuilder Maker builds a single-player roguelike deck-building game 
 [Open the sample project](getting-started/sample-project.md){ .md-button .md-button--primary }
 [Make your first game](getting-started/first-game.md){ .md-button }
 
-<!-- figure: welcome-overview | Project Overview, Card Editor and the Game Screen open side by side on the sample project -->
+![Project Overview, Card Editor and the Game Screen open side by side on the sample project](../assets/images/welcome-overview.png)
 
 ## Who this manual is for
 

@@ -140,7 +140,7 @@ namespace DeckForge.Samples
 5. In the [Enemy Editor](../authoring/enemies.md), add a move whose effect is **Run a custom rule (C#)** with **Charge Up**.
 6. Play a run in [Play Preview](../playtesting/play-preview.md) or [Game Screen](../playtesting/game-screen.md) and fight the enemy.
 
-<!-- figure: example-module-card-step | Card Editor step "Run a custom rule (C#)" with Echo Strike selected and the damage and perUse fields -->
+![Card Editor step "Run a custom rule (C#)" with Echo Strike selected and the damage and perUse fields](../../assets/images/example-module-card-step.png)
 
 ## Check your result
 

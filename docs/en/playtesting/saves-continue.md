@@ -48,7 +48,7 @@ In Play Preview, a dialog **Content changed since this run was saved** explains 
 
 On the play screen, the title shows "The game changed since this run was saved. Continuing uses the current content." under the buttons, and **Continue** resumes with the current content.
 
-<!-- figure: continue-values-changed | Play Preview dialog "Content changed since this run was saved" -->
+![Play Preview dialog "Content changed since this run was saved"](../../assets/images/continue-values-changed.png)
 
 Raising the **Version** of a custom rule counts as a value change. See [Custom rule modules](../extending/custom-rule-modules.md).
 
@@ -61,7 +61,7 @@ If you delete or rename something the saved run uses, for example a card in its 
 
 The maker does not skip missing content. Restore it, or start a new run.
 
-<!-- figure: continue-missing | Play Preview showing the Missing from the current packs list after a refused Continue -->
+![Play Preview showing the Missing from the current packs list after a refused Continue](../../assets/images/continue-missing.png)
 
 ## Workflow: check that your changes keep saves working
 

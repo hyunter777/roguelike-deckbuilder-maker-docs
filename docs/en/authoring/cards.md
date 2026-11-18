@@ -4,7 +4,7 @@ The Card Editor changes the project's cards and makes new ones. A card's values,
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Card Editor**, or select a card in the [Content Browser](content-browser.md) and press **Open in editor**.
 
-<!-- figure: card-editor | The Card Editor with the card list on the left, the form in the middle and the base and upgraded previews on the right -->
+![The Card Editor with the card list on the left, the form in the middle and the base and upgraded previews on the right](../../assets/images/card-editor.png)
 
 ## Layout
 
@@ -156,7 +156,7 @@ Damage uses the card's Damage and Gain Block its Block, so damage and block modi
 
 An error box under the steps lists every problem the card would be refused for, for example "Add at least one step." The same checks run again when you save. A card with no valid steps is unbound and cannot be played.
 
-<!-- figure: card-editor-steps | Two steps of a card rule with the Action, Target, Amount and Only when fields -->
+![Two steps of a card rule with the Action, Target, Amount and Only when fields](../../assets/images/card-editor-steps.png)
 
 ### Card to create
 

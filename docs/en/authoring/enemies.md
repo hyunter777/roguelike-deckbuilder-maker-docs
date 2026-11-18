@@ -9,7 +9,7 @@ The Enemy Editor creates and edits the enemies of your project: name, picture, H
 
 At the top of the window, the **Maker project** field selects the project. The status box below it shows how many enemies the project has and which content pack receives your saves (always the project's last content pack).
 
-<!-- figure: enemy-editor-overview | Enemy Editor with the template list on the left, a data enemy form in the middle and the combat preview on the right -->
+![Enemy Editor with the template list on the left, a data enemy form in the middle and the combat preview on the right](../../assets/images/enemy-editor-overview.png)
 
 The window has three columns:
 

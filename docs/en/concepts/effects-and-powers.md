@@ -152,8 +152,8 @@ A new power starts as a buff that gives its holder Block equal to its stack at t
 
 When the vocabulary is not enough, a programmer can write a **custom rule module**: card effects, relic effects and enemy actions in C# with value fields you fill in the editors. They appear as **Run a custom rule (C#)** in the Card, Relic and Enemy editors. Potions cannot use custom rules. See [Custom rule modules](../extending/custom-rule-modules.md).
 
-<!-- figure: effects-card-steps | Card Editor Play rule section with three steps: Deal damage to the chosen enemy, Apply a power (Weak), Draw cards -->
-<!-- figure: effects-power-editor | Power Editor with a new power's Type, Loses 1 each round, Order and one trigger with two steps -->
+![Card Editor Play rule section with three steps: Deal damage to the chosen enemy, Apply a power (Weak), Draw cards](../../assets/images/effects-card-steps.png)
+![Power Editor with a new power's Type, Loses 1 each round, Order and one trigger with two steps](../../assets/images/effects-power-editor.png)
 
 ## Related pages
 

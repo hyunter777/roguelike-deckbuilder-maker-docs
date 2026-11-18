@@ -15,7 +15,7 @@ Check the [Requirements](../introduction/requirements.md): Unity 6000.4 or later
 5. Wait until scripts finish compiling. On the first Editor load the package imports the TextMesh Pro essential resources by itself (see [Requirements](../introduction/requirements.md#textmesh-pro-essential-resources)).
 6. Confirm that the menu **Tools > Roguelike Deckbuilder Maker** appears.
 
-<!-- figure: install-menu | The Unity menu bar with Tools > Roguelike Deckbuilder Maker open after import -->
+![The Unity menu bar with Tools > Roguelike Deckbuilder Maker open after import](../../assets/images/install-menu.png)
 
 ## What is installed
 

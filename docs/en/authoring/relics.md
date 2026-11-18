@@ -4,7 +4,7 @@ The Relic Editor changes the project's relics and makes new ones. A relic acts t
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Relic Editor**, or select a relic in the [Content Browser](content-browser.md) and press **Open in editor**.
 
-<!-- figure: relic-editor | The Relic Editor with the relic list, a relic form with two triggers and the preview -->
+![The Relic Editor with the relic list, a relic form with two triggers and the preview](../../assets/images/relic-editor.png)
 
 ## Layout
 
@@ -60,7 +60,7 @@ Only COMMON, UNCOMMON, RARE, SHOP and BOSS relics drop. A STARTER or SPECIAL rel
 
 A relic has 1 to 4 triggers, and each trigger has 1 to 6 steps. Triggers run in the order the run owns its relics. Combat moments queue their steps in combat; **When picked up** and **After a won combat** only heal, give gold or raise max HP.
 
-<!-- figure: relic-editor-triggers | A trigger box with the When dropdown, Every Nth time, Once per combat and two step rows -->
+![A trigger box with the When dropdown, Every Nth time, Once per combat and two step rows](../../assets/images/relic-editor-triggers.png)
 
 Each trigger box has:
 

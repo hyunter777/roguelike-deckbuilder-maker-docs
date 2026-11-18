@@ -27,7 +27,7 @@ The project gets its own **Project ID** (the name's letters and digits plus a ra
 
 **Project Overview** opens with the new project selected.
 
-<!-- figure: first-game-new-project-dialog | The New Project dialog with the buttons Starter content, Cancel and Empty -->
+![The New Project dialog with the buttons Starter content, Cancel and Empty](../../assets/images/first-game-new-project-dialog.png)
 
 !!! tip
     If an asset with the same name already exists, the command refuses and asks you to choose another name.
@@ -45,7 +45,7 @@ In **Project Overview**, under **Game**:
 
 Each field saves when you leave it. Reopen **Game Screen** or **Player Screen** to see a new title.
 
-<!-- figure: first-game-project-overview | Project Overview with Game title, Subtitle, Ascension levels and the content pack table -->
+![Project Overview with Game title, Subtitle, Ascension levels and the content pack table](../../assets/images/first-game-project-overview.png)
 
 See [Project Overview](../authoring/project-overview.md) for content packs and the project check.
 
@@ -62,7 +62,7 @@ See [Project Overview](../authoring/project-overview.md) for content packs and t
 9. The card gets the template's default picture when it is created. To change it, open **Choose another picture** and select one from the library, or assign your own sprite to **+ Add your picture**.
 10. Optional: under **Starting deck**, pick a **Hero** and select **+1** to put a copy in that hero's starting deck.
 
-<!-- figure: first-game-card-editor | Card Editor with a new card from a template, its preview, values and two play steps -->
+![Card Editor with a new card from a template, its preview, values and two play steps](../../assets/images/first-game-card-editor.png)
 
 If a step is invalid, a red box under the steps explains why, and the card is not saved until you fix it. See [Cards](../authoring/cards.md).
 
@@ -76,7 +76,7 @@ If a step is invalid, a red box under the steps explains why, and the card is no
 
 **Making a new hero.** In a project started with **Empty**, select an **Empty slot** and select **Create hero**. Give it a name, a starting deck and a starting relic, then **Save**. A hero needs at least one starting relic, and only relics with the tier **STARTER** can start a run; make one in the [Relic Editor](../authoring/relics.md) first if the list is empty. See [Heroes](../authoring/heroes.md).
 
-<!-- figure: first-game-hero-editor | Hero Editor with the four hero slots on the left and a hero's starting values and deck -->
+![Hero Editor with the four hero slots on the left and a hero's starting values and deck](../../assets/images/first-game-hero-editor.png)
 
 ## 5. Check the project
 
@@ -95,7 +95,7 @@ Open **Project Overview** and read the project check line, for example "Project 
 
 To play on the real play screen, choose **Game Screen** or **Player Screen** instead. See [Play Preview](../playtesting/play-preview.md).
 
-<!-- figure: first-game-play-preview | Play Preview during a combat with the hand, enemies and End turn button -->
+![Play Preview during a combat with the hand, enemies and End turn button](../../assets/images/first-game-play-preview.png)
 
 ## Starting from an empty project
 

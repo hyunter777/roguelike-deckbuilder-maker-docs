@@ -10,7 +10,7 @@ Menu: **Tools > Roguelike Deckbuilder Maker > Sound & Effects**
 
 Select the project in the **Maker project** field. Changes are saved right away into the project asset; there is no **Save** button. Open the [Game Screen](../playtesting/game-screen.md) to hear them in a run.
 
-<!-- figure: sound-effects-window | Sound & Effects window with the Sounds group, slot dropdowns, play and stop buttons and + Add fields -->
+![Sound & Effects window with the Sounds group, slot dropdowns, play and stop buttons and + Add fields](../../assets/images/sound-effects-window.png)
 
 ## Layout
 

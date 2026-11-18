@@ -11,7 +11,7 @@ Card, relic, enemy, event, potion and hero values are edited in their own editor
 
 Select the project in the **Maker project** field. The status box shows how many rules exist, how many the project changes, and which content pack receives your saves (the project's last content pack).
 
-<!-- figure: run-rule-editor-shop | Run Rule Editor with the Shop area selected, showing rule rows with value fields and default labels -->
+![Run Rule Editor with the Shop area selected, showing rule rows with value fields and default labels](../../assets/images/run-rule-editor-shop.png)
 
 ## Layout
 

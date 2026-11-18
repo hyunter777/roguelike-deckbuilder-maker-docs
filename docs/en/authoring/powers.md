@@ -4,7 +4,7 @@ The Power Editor makes new powers: buffs and debuffs that sit on the player or a
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Power Editor**.
 
-<!-- figure: power-editor | The Power Editor with the New powers list and a power form with one trigger -->
+![The Power Editor with the New powers list and a power form with one trigger](../../assets/images/power-editor.png)
 
 ## Built-in powers and your own powers
 
@@ -70,7 +70,7 @@ A power has 1 to 4 triggers, and each trigger has 1 to 6 steps.
 | the player uses a card | The player plays a card (of the chosen type). |
 | the holder loses HP | The holder loses HP. |
 
-<!-- figure: power-editor-trigger | A power trigger with Player only ticked and a step using Amount = stack -->
+![A power trigger with Player only ticked and a step using Amount = stack](../../assets/images/power-editor-trigger.png)
 
 ## Steps
 

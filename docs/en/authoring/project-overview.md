@@ -4,7 +4,7 @@ The Project Overview is the first window of the maker. It shows the selected mak
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Project Overview**. **New Project...** and **Create Sample Project** also open it on the new project.
 
-<!-- figure: project-overview | The Project Overview window with the Game section, the content pack table and the project check line -->
+![The Project Overview window with the Game section, the content pack table and the project check line](../../assets/images/project-overview.png)
 
 ## Choose the project
 
@@ -86,7 +86,7 @@ The check covers what composition lets through, for example:
 
 Press **Check again** after a fix, or **Open Content Browser** to look at the entries.
 
-<!-- figure: project-overview-checks | The Project checks section with a warning row and the notes fold -->
+![The Project checks section with a warning row and the notes fold](../../assets/images/project-overview-checks.png)
 
 ## Workflow
 

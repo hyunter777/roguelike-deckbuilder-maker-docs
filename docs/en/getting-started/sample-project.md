@@ -11,7 +11,7 @@ The sample project is a complete, playable three-act game made only with the mak
 3. The project asset is selected and highlighted in the Project window.
 4. Choose **Tools > Roguelike Deckbuilder Maker > Project Overview**. The window picks up the selected project in its **Maker project** field.
 
-<!-- figure: sample-created-dialog | The dialog shown after Create Sample Project, with the sample project highlighted in the Project window -->
+![The dialog shown after Create Sample Project, with the sample project highlighted in the Project window](../../assets/images/sample-created-dialog.png)
 
 Running the command again rewrites the sample's content in place and keeps its asset files. Anything you changed in the sample is replaced.
 
@@ -52,7 +52,7 @@ The sample uses the **Maker** unlock rules (everything is available from the sta
 1. Choose **Tools > Roguelike Deckbuilder Maker > Game Screen** or **Player Screen**.
 2. The title screen shows "Starter Citadel". Start a new run and play with the mouse.
 
-<!-- figure: sample-game-screen | The Game Screen showing a combat in the sample: hero, enemies with intents, hand of cards and energy -->
+![The Game Screen showing a combat in the sample: hero, enemies with intents, hand of cards and energy](../../assets/images/sample-game-screen.png)
 
 See [Play Preview](../playtesting/play-preview.md), [Game Screen](../playtesting/game-screen.md) and [Player Screen and your build](../playtesting/player-screen.md).
 

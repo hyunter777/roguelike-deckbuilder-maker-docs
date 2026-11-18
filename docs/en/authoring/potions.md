@@ -4,7 +4,7 @@ The Potion Editor changes the project's potions and makes new ones. A potion run
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Potion Editor**, or select a potion in the [Content Browser](content-browser.md) and press **Open in editor**.
 
-<!-- figure: potion-editor | The Potion Editor with the potion list, the What it does steps and the Hero pools toggles -->
+![The Potion Editor with the potion list, the What it does steps and the Hero pools toggles](../../assets/images/potion-editor.png)
 
 ## Layout
 
@@ -81,7 +81,7 @@ A new step starts with a typical amount for its action, for example 10 damage or
 
 An error box under the steps lists every problem the potion would be refused for. It updates on every change.
 
-<!-- figure: potion-editor-steps | Two potion step rows with the Target, Amount and Potency fields -->
+![Two potion step rows with the Target, Amount and Potency fields](../../assets/images/potion-editor-steps.png)
 
 ## Hero pools
 

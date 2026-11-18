@@ -4,7 +4,7 @@ Play Preview test-plays your project inside the Unity Editor without entering Pl
 
 Open it from **Tools > Roguelike Deckbuilder Maker > Play Preview**.
 
-<!-- figure: play-preview-overview | Play Preview window with the New run and Test player sections and a combat in progress -->
+![Play Preview window with the New run and Test player sections and a combat in progress](../../assets/images/play-preview-overview.png)
 
 ## Choose the project
 
@@ -37,7 +37,7 @@ While a run is active, the window shows the current screen as tables and buttons
 
 A card that cannot be played shows the engine's reason next to it. A potion button is disabled with a tooltip when it cannot be used.
 
-<!-- figure: play-preview-combat | Combat tables with the hand, Play buttons and End turn -->
+![Combat tables with the hand, Play buttons and End turn](../../assets/images/play-preview-combat.png)
 
 ## Test player
 
@@ -60,7 +60,7 @@ Every move the test player makes is written to the log, with refused moves marke
 
 **Simulate runs** (1 to 50) and **Simulate** play that many fresh runs of the chosen hero with the chosen test player, using seeds **Seed**, **Seed**+1, and so on. Each simulated run uses its own temporary save folder, so your preview run and its save are not touched. A progress bar shows the current run; **Cancel** skips the remaining seeds and keeps the runs already played. The Editor is busy until the simulation finishes.
 
-<!-- figure: play-preview-simulation | Simulation summary with the Fights and Runs tables -->
+![Simulation summary with the Fights and Runs tables](../../assets/images/play-preview-simulation.png)
 
 The summary starts with the win rate and the average floor reached, and the content fingerprint. The same seeds give the same runs only while the fingerprint stays the same. The tables below it are:
 

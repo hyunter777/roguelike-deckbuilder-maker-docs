@@ -22,7 +22,7 @@ The left column always lists four hero slots. A slot decides which cards the her
 
 A hero uses the cards of its slot's color (the **Color** of a card in the [Card Editor](cards.md)) and colorless cards. A filled slot shows the hero's picture, name, max HP and deck size; an empty slot shows **EMPTY**.
 
-<!-- figure: hero-editor-overview | Hero Editor with four hero slots on the left and the form of a hero with starting values, deck and relic -->
+![Hero Editor with four hero slots on the left and the form of a hero with starting values, deck and relic](../../assets/images/hero-editor-overview.png)
 
 ## Workflow
 
