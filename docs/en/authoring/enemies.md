@@ -39,7 +39,7 @@ Templates use damage and block only, so they work in a project that has no power
 | **+ Goblin Bandit** | 20–24 | Weak. Opens by ducking behind 6 block, then stabs for 7 twice before ducking again. |
 | **+ Cave Bat** | 10–13 | Weak. Bites twice for 3 each turn; every third turn it dives for 8. |
 | **+ Stone Golem** | 42–46 | Strong. Hardens for 10 block first, then smashes for 12 and hardens again. |
-| **+ Dark Knight** | 78–84 | Elite. Cleaves for 14, or guards with 16 block and strikes back for 6, and never guards twice in a row. |
+| **+ Dark Knight** | 78–84 | Elite. Rends for 14, or guards with 16 block and strikes back for 6, and never guards twice in a row. |
 
 Each template also sets higher HP from a high ascension level (+2 HP from ascension 7 for most, +3 for Stone Golem, +4 from ascension 8 for Dark Knight).
 

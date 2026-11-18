@@ -8,14 +8,24 @@ Open it from **Tools > Roguelike Deckbuilder Maker > Potion Editor**, or select 
 
 ## Layout
 
-- **List** on the left: a **Search** field and every potion of the project, ordered by rarity. Each row shows a dot colored by rarity, the potion name and a grey line with its rarity and target.
+- **List** on the left: a **Search** field, the **New from a template** buttons and every potion of the project, ordered by rarity. Each row shows a dot colored by rarity, the potion name and a grey line with its rarity and target.
 - **Form** on the right.
 
-The Potion Editor has no template list and no preview column.
+The Potion Editor has no preview column.
 
 ## Create a potion
 
-New potions start from an existing one. Select a potion, then under **Make a new potion from this one** type a **New potion ID** and press one of:
+**From a template.** Press one of the **+** buttons under **New from a template**:
+
+| Template | What it does |
+|---|---|
+| **+ Healing Salve** | Common. Heals 10 HP, also usable outside combat. |
+| **+ Stone Tonic** | Uncommon. Gains 12 Block. |
+| **+ Blast Vial** | Rare. Deals 20 damage to the chosen enemy. |
+
+Its ID is the template key, with a number added if that ID is taken. A template potion joins no hero pool: tick the **Hero pools** that should drop and sell it (a pool needs a common, an uncommon and a rare potion), then press **Create potion**.
+
+**From an existing potion.** Select a potion, then under **Make a new potion from this one** type a **New potion ID** and press one of:
 
 | Button | Result |
 |---|---|
@@ -24,7 +34,7 @@ New potions start from an existing one. Select a potion, then under **Make a new
 
 The new potion is not saved yet. Edit it, then press **Create potion**, or **Discard** to drop it.
 
-A project with no potion yet has nothing to start from in this window. Start the project with the starter content (**New Project...** > **Starter content**) to get a set of potions to copy.
+A project with no potion yet starts its first one from a template.
 
 ## Save, revert and delete
 

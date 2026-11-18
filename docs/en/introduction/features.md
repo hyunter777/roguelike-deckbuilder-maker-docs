@@ -26,7 +26,7 @@ This page lists what Roguelike Deckbuilder Maker includes. Each item links to th
 | [Run Rule Editor](../authoring/run-rules.md) | Run-wide numbers: shop prices, reward chances, chest contents, map room shares, rest healing |
 | [Sound & Effects](../authoring/sound-effects.md) | Sounds, music and hit effects for each moment of the play screen |
 
-The Card, Relic and Enemy editors list ready-made templates under **New from a template**. The Card, Relic, Potion, Enemy and Event editors copy content you made with **Copy as new card**, **Copy as new relic**, **Copy as new potion**, **Copy as new enemy** and **Copy as new event**, keeping its steps and numbers.
+The Card, Relic, Potion and Enemy editors list ready-made templates under **New from a template**. The Card, Relic, Potion, Enemy and Event editors copy content you made with **Copy as new card**, **Copy as new relic**, **Copy as new potion**, **Copy as new enemy** and **Copy as new event**, keeping its steps and numbers.
 
 ## Project tools
 

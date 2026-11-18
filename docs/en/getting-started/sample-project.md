@@ -21,7 +21,7 @@ Two assets in `Assets/DeckForge/Samples/StarterProject/`:
 
 | Asset | Type | Contents |
 |---|---|---|
-| `StarterProject.asset` | Maker project | Game title "Starter Spire", subtitle "Sample", the content pack below, the default art library and the default cue library |
+| `StarterProject.asset` | Maker project | Game title "Starter Citadel", subtitle "Sample", the content pack below, the default art library and the default cue library |
 | `StarterContent.asset` | Content pack | Every hero, card, relic, potion, enemy, encounter and event of the sample, with their picture choices |
 
 The content of the sample:
@@ -50,7 +50,7 @@ The sample uses the **Maker** unlock rules (everything is available from the sta
 **On the play screen**:
 
 1. Choose **Tools > Roguelike Deckbuilder Maker > Game Screen** or **Player Screen**.
-2. The title screen shows "Starter Spire". Start a new run and play with the mouse.
+2. The title screen shows "Starter Citadel". Start a new run and play with the mouse.
 
 <!-- figure: sample-game-screen | The Game Screen showing a combat in the sample: hero, enemies with intents, hand of cards and energy -->
 
